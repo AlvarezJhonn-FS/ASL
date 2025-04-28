@@ -20,6 +20,7 @@ curl -X PUT http://localhost:3000/galaxies/ \
 Delete Galaxy By ID
 
 curl -X DELETE http://localhost:3000/galaxies/1
+
 2. Planets
 Get All Planets
 
@@ -40,6 +41,7 @@ curl -X PUT http://localhost:3000/planets/1 \
 Delete Planet By ID
 
 curl -X DELETE http://localhost:3000/planets/1
+
 3. Stars
 Get All Stars
 
